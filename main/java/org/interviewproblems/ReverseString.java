@@ -4,7 +4,7 @@ public class ReverseString
 {
     public static void main( String[] args )
     {
-        reverseString("Hello");
+        reverseString("Programming");
     }
 
     public static void reverseString(String str){
